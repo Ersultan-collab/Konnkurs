@@ -1,0 +1,14 @@
+
+
+.ottenok{
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  background-color: green;
+  border-radius: 50% 50% 50% 50%;
+  box-shadow: 0px 0px 100px 100px green;
+}
+body{
+  background-color: black;
+}
+
